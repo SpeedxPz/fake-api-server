@@ -46,14 +46,6 @@
             "value": ""
           },
           {
-            "id": "15",
-            "name": "businessType",
-            "display_name": "ประเภทลูกค้า",
-            "data_type": "String",
-            "type": "system_profile",
-            "value": ""
-          },
-          {
             "id": "1",
             "name": "firstName",
             "display_name": "ชื่อ",
@@ -61,14 +53,6 @@
             "type": "system_profile",
             "value": "Miyuki"
           },
-          {
-            "id": "16",
-            "name": "company",
-            "display_name": "บริษัท",
-            "data_type": "String",
-            "type": "system_profile",
-            "value": ""
-          }
         ],
         "labels": [
           "64e89e67955ec2557fd9c336",
@@ -105,28 +89,12 @@
             "value": "Producer"
           },
           {
-            "id": "3",
-            "name": "firstNameEN",
-            "display_name": "ชื่อภาษาอังกฤษ",
-            "data_type": "String",
-            "type": "system_profile",
-            "value": ""
-          },
-          {
             "id": "11",
             "name": "email",
             "display_name": "อีเมลล์",
             "data_type": "String",
             "type": "system_profile",
             "value": "yeet@gmail.com"
-          },
-          {
-            "id": "4",
-            "name": "lastNameEN",
-            "display_name": "นามสกุลภาษาอังกฤษ",
-            "data_type": "String",
-            "type": "system_profile",
-            "value": ""
           },
           {
             "id": "15",
