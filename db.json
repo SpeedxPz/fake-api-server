@@ -214,36 +214,12 @@
             "value": "มุราคามิ"
           },
           {
-            "id": "3",
-            "name": "firstNameEN",
-            "display_name": "ชื่อภาษาอังกฤษ",
-            "data_type": "String",
-            "type": "system_profile",
-            "value": "Tomoe"
-          },
-          {
             "id": "11",
             "name": "email",
             "display_name": "อีเมลล์",
             "data_type": "String",
             "type": "system_profile",
             "value": "tomoe@cinderellagirls.com"
-          },
-          {
-            "id": "4",
-            "name": "lastNameEN",
-            "display_name": "นามสกุลภาษาอังกฤษ",
-            "data_type": "String",
-            "type": "system_profile",
-            "value": "Murakami"
-          },
-          {
-            "id": "15",
-            "name": "businessType",
-            "display_name": "ประเภทลูกค้า",
-            "data_type": "String",
-            "type": "system_profile",
-            "value": ""
           },
           {
             "id": "1",
@@ -253,14 +229,6 @@
             "type": "system_profile",
             "value": "โทโมเอะ2"
           },
-          {
-            "id": "16",
-            "name": "company",
-            "display_name": "บริษัท",
-            "data_type": "String",
-            "type": "system_profile",
-            "value": ""
-          }
         ],
         "labels": [
           "64e89e67955ec2557fd9c336"
@@ -271,14 +239,6 @@
       {
         "id": "63e9f23983c2d920ba4cd147",
         "fields": [
-          {
-            "id": "16",
-            "name": "company",
-            "display_name": "บริษัท",
-            "data_type": "String",
-            "type": "system_profile",
-            "value": ""
-          },
           {
             "id": "9",
             "name": "phone",
