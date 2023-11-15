@@ -336,30 +336,6 @@
             "value": "มิโยชิ"
           },
           {
-            "id": "3",
-            "name": "firstNameEN",
-            "display_name": "ชื่อภาษาอังกฤษ",
-            "data_type": "String",
-            "type": "system_profile",
-            "value": "Sana"
-          },
-          {
-            "id": "4",
-            "name": "lastNameEN",
-            "display_name": "นามสกุลภาษาอังกฤษ",
-            "data_type": "String",
-            "type": "system_profile",
-            "value": "Miyoshi"
-          },
-          {
-            "id": "15",
-            "name": "businessType",
-            "display_name": "ประเภทลูกค้า",
-            "data_type": "String",
-            "type": "system_profile",
-            "value": ""
-          },
-          {
             "id": "1",
             "name": "firstName",
             "display_name": "ชื่อ",
