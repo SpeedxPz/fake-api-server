@@ -52,7 +52,7 @@
             "data_type": "String",
             "type": "system_profile",
             "value": "Miyuki"
-          },
+          }
         ],
         "labels": [
           "64e89e67955ec2557fd9c336",
@@ -228,7 +228,7 @@
             "data_type": "String",
             "type": "system_profile",
             "value": "โทโมเอะ2"
-          },
+          }
         ],
         "labels": [
           "64e89e67955ec2557fd9c336"
